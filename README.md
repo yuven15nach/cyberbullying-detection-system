@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project develops an AI-based cyberbullying detection system with integrating multi agent architecture using Google Gemini 3.1 Flash Lite.
+This project develops an AI-based cyberbullying detection system with integrating multi agent architecture using Google Gemini 3.1 Flash Lite as an LLM model.
 
 ## Features
 
