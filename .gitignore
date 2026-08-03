@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# API Keys
+.env
+
+#remove checkgeminiver.py
+checkgeminiver.py
+
+# OS
+.DS_Store
+Thumbs.db
